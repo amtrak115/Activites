@@ -1,0 +1,3 @@
+MSTS-UPpk1fix 
+
+MSTS-UPpk1fix is an UPDATE for all the .s files in Union Pacific Freight Pack #1.Simply extract the contents of UPpk1fix to the Union Pacific Freight Pack #1 folder in the MSTS/Trains/TRAINSET/UP_Box_pack folder and overwrite all files.Update by Pete Abrams.Thanks to the forum guys for picking this up.

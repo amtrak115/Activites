@@ -1,0 +1,23 @@
+Santa Fe SD40-2 Road #5038
+
+Installation:
+
+Unzip this file to your trainsim "trainset" folder. 
+
+Next copy the cabview and sounds folder from you GP38 folder into the "SD40-2 SF KB" folder that was created when you unzipped this download.
+
+That should do it. Go make a consist with the engine and run your new SP!
+
+If you'd like to send gratuities sent them to
+
+Ken Boudreaux
+67030 Dolan St.
+Mandeville, LA 70471
+
+
+
+LEGAL:
+
+	This repaint is FreeWare. It shall not be distributed by any party or website other that www.train-sim.com. It may not be used in any commercial add-on product or any other media either printed or electronic without my permission. Any screen shots of this locomotive on any website or in any publication is prohibited unless full credit is given in my name and the location of the downloadable file is listed. You must also give credit to Jason Dilworth, Chris Lee and Tim Kent for developing the shape and eng file that constitutes the model.
+
+Enjoy! 

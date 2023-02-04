@@ -1,0 +1,19 @@
+Original Trucks, wheels, Couplers, Container shapes: David Rowie
+Container Textures:                                  Steve Molley, BEW
+Some details used:                                   Hauke Hey, Ted Curphey
+Original Handbrake Release Shape:		     Byron Ashlock 
+Some fonts:					     Pete Willard
+Fridge Sound sms file				     BEW
+
+
+
+
+New Wheels, Shapes, mapping and Textures, Reefer Shapes an Textures:            Andrey Tucker-Wells
+
+
+
+
+
+
+
+

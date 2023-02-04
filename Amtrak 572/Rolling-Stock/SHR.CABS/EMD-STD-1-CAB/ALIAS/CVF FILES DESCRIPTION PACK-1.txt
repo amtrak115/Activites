@@ -1,0 +1,201 @@
+
+
+CVF DESCRIPTION FOR THE SHR EMD-STD-1-CAB PACK-1
+
+Choose one of this cvf files. Copy one to the Cabview folder in your desired locomotive.
+open the Eng file of your engine and change the cabview line with the name of the new cvf file. 
+Remenber check the Combined control line for locomotives with dinamic brakes.
+
+----------------------------------------------------------------------------------
+
+   EMD  -  GP10    ND   -   BNSF  -  H1   -  AS   .cvf
+    /       /      /         /       /       /     /
+   /       /      /         /       /       /     /
+Builder   /      /         /       /       /     /
+         /      /         /       /       /    File extencion
+ Loco Model    /         /       /       / 
+              /         /       /       /
+  Loco Caracteristic   /       /       / 
+                      /       /       / 
+                Road Name    /       /
+                            /       / 
+               Road Name Variant   /
+                                  /
+                             Speedometer
+
+----------------------------------------------------------------------------------
+
+Loco model uses:
+
+  This designation is used for the distance from the center of the locomotive to the cab, for example:
+
+
+
+        _______________________________ ______ ______
+       |  _____________________________|      |_____ |
+       | |                             |      |     ||
+       | |          LOCOMOTIVE         |      |     ||
+       | |_____________________________|      |_____||
+       |_______________________________|______|______|
+                     
+                            |              |
+                             -------------- 
+                                DISTANCE
+
+                            |--------|
+                               GP10
+                            |----------|
+                                GP35
+                            |------------|
+                                 GP38
+                            |------------------|
+                                    SD40
+                            |----------------------|
+                                      SD45
+
+   GP10:
+     Also for: GP9, GP10, GP11, GP18 and GP20.
+
+   GP35:
+     Also for: GP30 and GP35.
+
+   GP38:
+     Also for: GP38 and GP40.
+
+
+
+----------------------------------------------------------------------------------
+Loco Caracteristic:
+
+   ND---Non dyminic Brakes
+   HN---High Nose
+   LH---Long Hood
+   LW---L shaped front Window
+   SN---Snoot Nose
+   3W---Three Front windows
+   BS---Big separation between front windows.
+
+----------------------------------------------------------------------------------
+Speedometers kinds:
+
+   AS---Analogue Speedometer
+   DS---Digital Speedometer
+   BS---Both Speedometer
+
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+
+
+GENERIC VERSIONS
+
+  EMD-CF7ND-GEN-AS.cvf---------------------------Generic color.  
+  EMD-GP10-GEN-AS.cvf----------------------------Generic color.  
+  EMD-GP10ND-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP10BS-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP10BSND-GEN-AS.cvf------------------------Generic color.  
+  EMD-GP103W-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP103WND-GEN-AS.cvf------------------------Generic color.  
+ 
+  EMD-GP35-GEN-AS.cvf----------------------------Generic color.  
+  EMD-GP35ND-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP35HN-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP35LH-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP35LW-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP35LWND-GEN-AS.cvf------------------------Generic color.  
+
+  EMD-GP38-GEN-AS.cvf----------------------------Generic color.  
+  EMD-GP38ND-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP38HN-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP38LH-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP38LW-GEN-AS.cvf--------------------------Generic color.  
+  EMD-GP38LWND-GEN-AS.cvf------------------------Generic color.  
+
+  EMD-SD40-GEN-AS.cvf----------------------------Generic color.
+  EMD-SD40ND-GEN-AS.cvf--------------------------Generic color.  
+  EMD-SD40HN-GEN-AS.cvf--------------------------Generic color.  
+    
+  EMD-SD45-GEN-AS.cvf----------------------------Generic color.  
+  EMD-SD45LW-GEN-AS.cvf--------------------------Generic color.  
+
+
+
+CF7 - Non dyminic Brakes.
+
+  EMD-CF7ND-ATSF-BLU-AS.cvf---------------------Blue nose.
+  EMD-CF7ND-ATSF-YEL-AS.cvf---------------------Yellow nose.
+
+
+GP9, GP10, GP11, GP18 and GP20 - Non dyminic Brakes.
+
+  EMD-GP10ND-ARR-P1-AS.cvf------------------------Black and yellow nose.
+  EMD-GP10ND-ARR-P2-AS.cvf------------------------Yellow and blue nose.
+  EMD-GP10ND-BN-AS.cvf----------------------------Green nose.
+  EMD-GP10ND-BNSF-H1-AS.cvf-----------------------Orange and green nose.
+
+
+GP9, GP10, GP11, GP18 and GP20 - Three Front windows.
+
+  EMD-GP103W-ATSF-BLU-AS.cvf---------------------Blue nose.
+  EMD-GP103W-ATSF-YEL-AS.cvf---------------------Yellow nose.
+
+
+GP9, GP10, GP11, GP18 and GP20 - Big separation between front windows.
+
+  EMD-GP10BS-ATSF-BLU-AS.cvf---------------------Blue nose.
+  EMD-GP10BS-ATSF-YEL-AS.cvf---------------------Yellow nose.
+
+GP30 and GP35.
+
+  EMD-GP35-ATSF-BLU-AS.cvf------------------------Blue nose.
+  EMD-GP35-ATSF-YEL-AS.cvf------------------------Yellow nose.
+  EMD-GP35-BN-AS.cvf------------------------------Green nose.
+  EMD-GP35-BNSF-H1-AS.cvf-------------------------Orange and green nose.
+  EMD-GP35-BO-AS.cvf------------------------------Blue nose.
+
+
+GP30 and GP35 - Non dyminic Brakes.
+
+  EMD-GP35ND-AA-AS.cvf----------------------------Orange and black nose.
+
+
+GP30 and GP35 - L shaped front Window
+
+  EMD-GP35LW-ARR-P1-AS.cvf-------------------------Black and yellow nose.
+  EMD-GP35LW-ARR-P2-AS.cvf-------------------------Yellow and blue nose.
+
+
+GP38 and GP40
+
+  EMD-GP38-ARR-P1-AS.cvf--------------------------Black and yellow nose.
+  EMD-GP38-ARR-P2-AS.cvf--------------------------Yellow and blue nose.
+  EMD-GP38-ATSF-YEL-AS.cvf------------------------Yellow nose.
+  EMD-GP38-BN-AS.cvf------------------------------Green nose.
+  EMD-GP38-BNSF-H1-AS.cvf-------------------------Orange and green nose.
+  EMD-GP38-BO-AS.cvf------------------------------Blue nose
+
+
+GP38 and GP40 - L shaped front Window
+
+  EMD-GP38LW-ARR-P1-AS.cvf-------------------------Black and yellow nose.
+  EMD-GP38LW-ARR-P2-AS.cvf-------------------------Yellow and blue nose.
+
+SD40
+
+  EMD-SD40-ATSF-YEL-AS.cvf------------------------Yellow nose.
+  EMD-SD40-BNSF-H1-AS.cvf-------------------------Orange and green nose.
+
+
+SD45
+
+  EMD-SD45-ATSF-BLU-AS.cvf------------------------Blue nose.
+  EMD-SD45-ATSF-YEL-AS.cvf------------------------Yellow nose.
+  EMD-SD45-BN-AS.cvf------------------------------Green nose.
+  EMD-SD45-BNSF-H1-AS.cvf-------------------------Orange and green nose.
+
+
+
+
+
+By Charlie Sibaja. 
+
+(charliesibajamsts@yahoo.com).

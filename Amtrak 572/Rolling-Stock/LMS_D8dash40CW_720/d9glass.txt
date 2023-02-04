@@ -1,0 +1,27 @@
+Window Glass for the Dash 9 replacement by Maple Leaf Tracks
+Scott M. Miller
+March 15, 2004
+
+This is a simple FreightAnim object that can be added to MLT's replacement Dash 9 to give the appearance of window glass.  
+
+Installation:
+Put glass.ace and dash9glass.s into the DASH9 folder in the trainset\trains subfolder of your Train Simulator installation.  Open up dash9.eng (back it up first!) with a unicode-aware text editor (such as WordPad).  Add the following to anywhere in the Wagon() region.  I usually put FreightAnim tags below the WagonShape entry.  And no, the top line isn't necessary.  But it will possibly help remind you that a modification occurred.
+
+	Comment ( glass FreightAnim by Scott M. Miller )
+	FreightAnim ( dash9glass.s 1 1 )
+
+Save dash9.eng.  That's it.
+
+Notes:  the alpha channel on the glass can cause some trees and other objects to disappear when viewed through them.  If you find yourself noticing it a lot and would rather not see it, simply remove the two lines from the .eng file and delete glass.ace and dash9glass.s.
+
+These files are released as Freeware. Copyright (C) 2004, Scott M. Miller.
+
+As freeware you are permitted to distribute this subject to the following conditions:
+
+- The archive may be freely redistibuted in its original form.
+
+- The files are not to be included in any sort of payware package without the author's explicit permission.
+
+- The files can be modified and redistributed (as freeware, still subject to these conditions) so long as original credit is given to the author.
+
+I'd like to thank MLT for providing the model for me to add glass. :)

@@ -1,0 +1,7 @@
+NOTE: Old comments from pre-Polymaster era. Disregard.
+
+
+Body:      Interior:    Conclusion:
+
+TransNorm  TransHlfBrt  Unsuccessfull
+AlphNorm+  TransHlfBrt  Part Sucess - no outside scenery

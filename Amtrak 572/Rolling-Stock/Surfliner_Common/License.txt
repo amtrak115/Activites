@@ -1,0 +1,29 @@
+Facing Point Media Add-on for Microsoft® Train Simulator.
+Copyright 2003 Facing Point Media. All Rights Reserved.
+_______________________________________________________
+
+*** FACING POINT END USER LICENSE AGREEMENT ***
+
+This license applies to all evaluation and standard-licensed versions of Facing Point Media's software and all its variants.
+
+FACING POINT MEDIA PRODUCT LICENCE
+
+You should carefully read the following terms and conditions before using this software. Unless you have a different license agreement signed by Facing Point Media ("Facing Point") your use, distribution, or installation of this copy of the Facing Point Media software ("software") indicates your acceptance of this License.
+
+If you do not agree to any of the terms of this License, then do not install, distribute or use this copy of the software.
+
+Facing Point Media retains all ownership rights to this software. Facing Point Media grants the user ("you") a non-exclusive license to use this software for personal use on a single computer. It may not be installed on a single workstation used nonsimultaneously by multiple people. This is not a concurrent use license. This software may not be copied or distributed, in whole or in part, to any format, including digital media, without the express written permission of Facing Point Media.
+
+Redistributable Code-Limited Use.  You may not redistribute, reverse engineer, or decompile any Facing Point Media software, files, or code without the expressed written consent of Facing Point Media. 
+
+THIS SOFTWARE, AND ALL ACCOMPANYING FILES, DATA AND MATERIALS, ARE DISTRIBUTED "AS IS" AND WITH NO WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. IN PARTICULAR, THERE IS NO WARRANTY GIVEN AGAINST THIS FILE CONTAINING A VIRUS. GOOD DATA PROCEDURE DICTATES ANY PROGRAM BE THOROUGHLY TESTED WITH NON-CRITICAL DATA BEFORE RELYING ON IT. THE USER MUST ASSUME THE ENTIRE RISK OF USING THIS SOFTWARE. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THE AGREEMENT.
+
+ANY LIABILITY OF FACING POINT MEDIA or 3DTRAINS WILL BE LIMITED EXCLUSIVELY TO REFUND OF PURCHASE PRICE. IN ADDITION, IN NO EVENT SHALL Facing Point Media, OR ITS PRINCIPALS, SHAREHOLDERS, OFFICERS, EMPLOYEES, AFFILIATES, CONTRACTORS, SUBSIDIARIES, OR PARENT ORGANIZATIONS, BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER RELATING TO THE USE OF THIS SOFTWARE, OR YOUR RELATIONSHIP WITH Facing Point Media.
+
+IN ADDITION, IN NO EVENT DOES Facing Point Media AUTHORIZE YOU TO USE THIS SOFTWARE IN APPLICATIONS OR SYSTEMS WHERE THIS SOFTWARE'S FAILURE TO PERFORM CAN REASONABLY BE EXPECTED TO RESULT IN A SIGNIFICANT PHYSICAL INJURY, OR IN LOSS OF LIFE. ANY SUCH USE BY YOU IS ENTIRELY AT YOUR OWN RISK, AND YOU AGREE TO HOLD Facing Point Media HARMLESS FROM ANY CLAIMS OR LOSSES RELATING TO SUCH UNAUTHORIZED USE.
+
+This Agreement is the complete statement of the Agreement between the parties on the subject matter, and merges and supersedes all other or prior understandings, purchase orders, agreements and arrangements.  This Agreement shall be governed by the laws of the State of California. Exclusive jurisdiction and venue for all matters relating to this Agreement shall be in courts and fora located in the State of California, County of Los Angeles, City of Los Angeles, and you consent to such jurisdiction and venue.
+
+All rights of any kind in this software which are not expressly granted in this License are entirely and exclusively reserved to and by Facing Point Media. You may not rent, lease, modify, translate, reverse engineer, decompile, disassemble or create derivative works based on this software. You may not make access to this software available to others in connection with a service bureau, application service provider, or similar business, or use this software in a business to provide add-on content. There are no third party beneficiaries of any promises, obligations or representations made by Facing Point Media herein.
+
+YOU ARE SPECIFICALLY PROHIBITED FROM CHARGING, OR REQUESTING DONATIONS, FOR ANY COPIES, HOWEVER MADE, AND FROM DISTRIBUTING SUCH COPIES WITH OTHER PRODUCTS OF ANY KIND, COMMERCIAL OR OTHERWISE, WITHOUT PRIOR WRITTEN PERMISSION FROM Facing Point Media. Facing Point Media RESERVES THE RIGHT TO REVOKE THE ABOVE DISTRIBUTION RIGHTS AT ANY TIME, FOR ANY OR NO REASON.

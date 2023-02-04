@@ -1,0 +1,22 @@
+Repaint of SLI BN_GP38_2105 into ATSF_GP38_2862 All models and textures by Streamlines Corp "www.streamlines.ca"
+Freight Animation by Matt Olesen, tweaked by Bernard Grant, Sounds by Matt Florack 
+
+You must have the BN set that contains the shape file for BN_GP38_2105 in order to make this repaint work.
+
+INSTALLATION INSTRUCTIONS:
+1. Unzip this download to a temporary file named ATSF_GP38_2862 and place it in your TRAINSET directory of MSTS
+2. Copy the shape file of BN_GP38_2105.s into the file and rename it ATSF_GP38_2862.s. Rename my shape files, GP38_2862a and 
+   GP38_2862b back to the original models shape files GP38a and GP38b  	
+3. Sound is aliased to Matt Florack's MC_EMD645 available at http://mclw.proboards.com/index.cgi
+4. Copy cab view from the BN pack into the ATSF_GP38_2862 file.
+5. Make a consist and enjoy
+
+NOTE: This will not look correct in Shape Viewer but did work correctly for me in the Sim. I could not figure it out.
+      Anyone who would like to attempt to correct it may do so.
+
+Thanks to the SLI folks for their repaint policy!
+Freight Animation by Matt Olesen
+Tweaked by Bernard Grant
+Sound by Matt Florack
+Repaint by Kent Stough "BULLETS" 11/28/2010
+kcstough@hughes.net 	

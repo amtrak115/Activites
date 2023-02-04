@@ -1,0 +1,29 @@
+ATSF Cupola Caboose 
+for Microsoft Train Simulator
+09/08/01
+
+Caboose and copula view by
+Trouble Pryor troub80@yahoo.com http://www.geocities.com/troub80 
+
+Repaint of the caboose by Bob Wirth     (RobertWirth@msn.com)
+-----------------------------------------------------------------------------
+Install instructions: unzip the contents of this .zip to a folder named
+as desired in your Train Simulator/trains/trainset directory.
+
+This unit contains a view function from the copula which is activated by
+the 5 key. Once in the copula the arrow keys can be used for a panoramic 
+view. 
+
+This is version 1. The author intends to issue enhanced versions in the
+future.
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------
+

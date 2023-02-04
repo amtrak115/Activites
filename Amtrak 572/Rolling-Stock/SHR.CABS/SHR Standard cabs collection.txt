@@ -1,0 +1,54 @@
+
+
+Hi, thank you for download my High Resolution Version cabs (1024X768pixels).
+
+I hope you will enjoy it.
+
+
+
+
+
+-----------------------------------MSTS SHR Photorealistics Standard Cabs Collection--------------------------------------------------------
+
+---EMD STANDARD CABS
+
+     NAME               ZIP NAME IN TRAIN-SIM      Number of cvf                DESCRIPTION                                 Locomotive Models
+
+     EMD-STD-1-CAB PACK-1---shrst1p1.zip----------------56-----------EMD Spartan cab with combined controls.---------GP9, GP10, GP11, GP15, GP18, GP20, GP30, GP35, GP38, GP40, SD9, SD24, SD35, SD40, SD45
+     EMD-STD-1-CAB PACK-2---shrst1p2.zip----------------68-----------EMD Spartan cab with combined controls.---------GP9, GP10, GP11, GP15, GP18, GP20, GP30, GP35, GP38, GP40, SD9, SD24, SD35, SD40, SD45
+     EMD-STD-1-CAB PACK-3---shrst1p3.zip----------------59-----------EMD Spartan cab with combined controls.---------GP9, GP10, GP11, GP15, GP18, GP20, GP30, GP35, GP38, GP40, SD9, SD24, SD35, SD40, SD45
+     EMD-STD-2-CAB PACK-1---shrst2p1.zip----------------72-----------EMD Spartan cab with Analogue gauges.-----------GP15, GP38-2, GP39-2, GP40, GP40-2, GP50, GP50L, GP60, SD40-2, SD45-2, SD45T-2, SD50, SD60 and many others.
+     EMD-STD-2-CAB PACK-2---shrst2p2.zip----------------71-----------EMD Spartan cab with Analogue gauges.-----------GP15, GP38-2, GP39-2, GP40, GP40-2, GP50, GP50L, GP60, SD40-2, SD45-2, SD45T-2, SD50, SD60 and many others.
+     EMD-STD-2-CAB PACK-3---shrst2p3.zip----------------54-----------EMD Spartan cab with Analogue gauges.-----------GP15, GP38-2, GP39-2, GP40, GP40-2, GP50, GP50L, GP60, SD40-2, SD45-2, SD45T-2, SD50, SD60 and many others.
+     EMD-STD-W-CAB----------shrstd-w.zip-----------------8-----------EMD Wide cab (Comfort Cab).---------------------GP38-2W and SD40-2W.
+     EMD-F40-CAB------------shrf40ph.zip----------------14-----------EMD passengers Engines.-------------------------F40PH and many others
+     EMD-F45-CAB------------shrf45cb.zip----------------11-----------EMD F45 locomotives-----------------------------F40, FP40, F45, FP45, F45XR
+     EMD-STD-70-CAB---------shrstd70.zip-----------------5-----------EMD Spartan cab with LCD monitorS---------------SD70
+
+---GE STANDARD CABS
+
+     NAME               ZIP NAME IN TRAIN-SIM      Number of cvf                DESCRIPTION                                 Locomotive Models
+
+     GE-STD-7-CAB----------shrge-7c.zip----------------98----------GE Spartan cab with Analogue gauges--------------U23B, U25B, U28B, U30B, U33B, U36B, U23C, U25C, U26C, U28C, U30C, U33C, U36C, B23-7, B30-7, B36-7,  C30-7 and C36-7.
+     GE-STD-8-CAB----------shrge-8c.zip----------------20----------GE Spartan cab with Analogue gauges--------------B32-8, B39-8, B40-8, C39-8, C40-8 and C41-8
+     GE-STD-9-CAB----------shrge-9c.zip-----------------2----------GE Spartan cab with LCD monitorS.----------------D9-40C
+
+---OTHERS STANDARD CABS
+
+     MLW-STD-W-CAB---------shrmlw-W.zip---------------14-----------MLW Wide cab-------------------------------------M-420W, M-630W, HR-616
+     MOD-SWT-CAB-----------shrmdswt.zip---------------23-----------Modern Switchers Cab-----------------------------GG20GP (Green Goat), GG20GE, RP20GE, RP20CD, EMD GP20G, GP15D, Morrison Knudsen MK1200G, NRE (Genset) 3GS21B and many others.
+
+  NEW CAB PROYETS COMING SOON...
+
+
+----Enjoy your ride for ever-----
+
+----------------------------------------------------------------------------------------------------------------------
+
+This cabs is done as a freeware, not for sale.
+
+If you have ANY problems what-so-ever please email me at charliesibajamsts@yahoo.com, email me saying nice job. I just want to know how you all like it.
+
+Thanks,
+
+CHARLIE SIBAJA.

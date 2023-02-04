@@ -1,0 +1,17 @@
+
+
+CVF DESCRIPTION FOR THE GE-SAFE2-CAB.
+
+Choose one of this cvf files.Copy and paste into the Cabview folder in your locomotive.
+open the Eng file of your engine and change the cabview line for the name of the cvf file.
+
+
+ GEsafe2-OLCD.cvf---------------Cab for GE locos with Old LCD monitors (Dash-9, AC4400).
+ GEsafe2-OLCD-RW.cvf------------Cab for GE locos with Old LCD monitors and round side windows (Dash-9, AC4400).
+ GEsafe2-NLCD.cvf---------------Cab for GE locos with New LCD monitors (AC6600, ES44DC, ES44AC).
+ GEsafe2-NLCD-RW.cvf------------Cab for GE locos with New LCD monitors and round side windows (AC6600, ES44DC, ES44AC).
+ 
+
+By Charlie Sibaja. 
+
+(charliesibajamsts@yahoo.com).

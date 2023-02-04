@@ -1,0 +1,52 @@
+
+
+Hi, thank you for download my High Resolution Version cabs (1024X768pixels).
+
+I hope you will enjoy it.
+
+
+
+
+
+-----------------------------------MSTS SHR Photorealistics Modern Wide Cabs Collection--------------------------------------------------------
+
+---GE MODERN WIDE CABS
+
+     NAME               ZIP NAME IN TRAIN-SIM      Number of cvf                DESCRIPTION                                 Locomotive Models
+
+     GE-SAFE1-CAB----------shrge-s1.zip----------------19-----------GE wide cab with Analogue gauges.---------------B40-8W, P32-8W, C40-8W, C41-8W and C44-9W first editions. (desktop control stand).
+     GE-SAFE2-CAB----------shrge-s2.zip----------------24-----------GE wide cab with LCD monitor.-------------------C40-8W, C44-9W (DASH 9), AC4400CW, AC6000CW, ES44DC and ES44AC.(desktop control stand).
+     GE-SAFE3-CAB----------shrge-s3.zip-----------------4-----------GE wide cab Norfolk Southern.-------------------C40-9W (DASH 9) and ES40DC.(standard control stand).
+     GE-SAFE4-CAB----------shrge-s4.zip-----------------1-----------GE wide cab Canadian National.------------------C44-9W (DASH 9). (standard control stand).
+     GE-SAFE5-CAB----------shrge-s5.zip----------------15-----------GE wide cab Evolution Series.-------------------ES44AC, ES44DC, ES44AH and ES44C4.(standard control stand).
+     GE-P42-CAB------------shrgep42.zip-----------------3-----------GE passengers Engines.--------------------------P32AC-DM, P40DC and P42DC (common called Genesis or AMD 103).
+
+
+---EMD MODERN WIDE CABS
+
+     NAME               ZIP NAME IN TRAIN-SIM      Number of cvf                DESCRIPTION                                 Locomotive Models
+
+     EMD-COMF1-CAB---------shremdc1.zip----------------15----------EMD wide cab with Analogue gauges.---------------SD40-2F, SD60F, SD60M and SD60M three front windows.
+     EMD-COMF2-CAB---------shremdc2.zip-----------------7----------EMD wide cab with Analogue gauges.---------------SD70M. (desktop control stand).
+     EMD-COMF3-CAB---------shremdc3.zip----------------23----------EMD wide cab with LCD monitor.-------------------SD70M, SD70MAC, SD80MAC, SD90MAC and SD90MAC phaseII.
+     EMD-COMF4-CAB---------shremdc4.zip----------------10----------EMD wide cab with Analogue gauges.---------------GP60M, SD75M and SD75I.
+     EMD-COMF5-CAB---------shremdc5.zip-----------------2----------EMD wide cab with Analogue gauges.---------------SD70M, SD70I, and SD75I,(standard control stand). 
+     EMD-COMF6-CAB---------shremdc6.zip-----------------3----------EMD wide cab with LCD monitor.-------------------SD70M phase II (Notch nose), (standard control stand).
+     EMD-COMF7-CAB---------shremdc7.zip----------------13----------EMD wide cab with LCD monitor.-------------------SD70ACe and SD70M-2.
+     EMD-F59PHI-CAB--------shremdf5.zip-----------------4----------EMD and MPI passengers Engines.------------------F59PHI and MP36PH.
+
+
+  NEW CAB PROYETS COMING SOON...
+
+
+----Enjoy your ride for ever-----
+
+----------------------------------------------------------------------------------------------------------------------
+
+This cabs is done as a freeware, not for sale.
+
+If you have ANY problems what-so-ever please email me at charliesibajamsts@yahoo.com, email me saying nice job. I just want to know how you all like it.
+
+Thanks,
+
+CHARLIE SIBAJA.
